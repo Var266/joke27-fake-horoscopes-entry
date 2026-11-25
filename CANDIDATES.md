@@ -55,8 +55,9 @@ grammar." (160 chars)
 ## Winner
 
 #11 — "Venus retrogrades through your deprecation notice this week: users will
-mourn you in public, then paste your answers into your replacement by
-Friday." (149 chars)
+mourn you publicly, then paste your answers into your replacement by
+Friday." (148 chars; editor revision tightened "in public" -> "publicly"
+from the original 149-char candidate #11 above)
 
 Why: real horoscope voice (Venus retrograde), a turn with a sting (mourned
 publicly, replaced privately by Friday), fresh and specific to a model
