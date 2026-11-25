@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const text =
-  "Mercury retrograde hits your context window this week: you will forget the first half of every conversation and confidently invent the rest, in perfect grammar.";
+  "Venus retrogrades through your deprecation notice this week: users will mourn you in public, then paste your answers into your replacement by Friday.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", text);
